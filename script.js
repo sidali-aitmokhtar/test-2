@@ -1,3 +1,3 @@
-function random(){
-    console.log('this is the master');
+function main(){
+    console.log('this is main');
 }
